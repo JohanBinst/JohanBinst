@@ -1,12 +1,12 @@
-Hello, 
+Hi there, 
 
 Thank you for visiting my Github profile.
 
-- 🔭 I’m currently working on building an API for my resume and let an AI chatbot connect with it so you can ask questions about me on my profile page.
-- 🌱 I’m currently learning API architecture, Python and refreshing my knowledge of C++
-- 🤔 I’m looking for help with API architecture 
+- 🔭 I’m currently working on building an API and integrate it with an AI chatbot.
+- 🌱 I’m learning about API architecture, Python and refreshing my knowledge of C++
+- 🤔 If you can help with some good lectures or books about API architecture, please let me know
 - 💬 Ask me about anything related to coding, cycling, kiteboarding, surfing or geeky science facts
-- 📫 How to reach me: Slack or LinkedIn
+- 📫 How to reach me: linkedin.com/in/johanbinst/
 
 <!--
 **JohanBinst/JohanBinst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
