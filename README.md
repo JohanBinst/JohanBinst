@@ -2,9 +2,8 @@ Hi there,
 
 Thank you for visiting my Github profile.
 
-- 🔭 I’m currently working on building an API with Springboot
-- 🌱 I’m learning more about FE and BE development using Angular and Springboot
-- 🤔 If you can help with some, please let me know
+- 🔭 Full stack developer Java and JS/TS using Spring and Angular frameworks
+- 🌱 I’m learning more about DevOps mainly Kubernetes and Kafka
 - 💬 Ask me about anything related to coding, cycling, kiteboarding, surfing or geeky science facts
 - 📫 How to reach me: linkedin.com/in/johanbinst/
 
