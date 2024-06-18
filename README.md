@@ -3,7 +3,7 @@ Hi there,
 Thank you for visiting my Github profile.
 
 - 🔭 Full stack developer Java and JS/TS using Spring and Angular frameworks
-- 🌱 I’m learning more about DevOps mainly Kubernetes and Kafka
+- 🌱 I’m learning more about DevOps mainly Kubernetes and CI/CD
 - 💬 Ask me about anything related to coding, cycling, kiteboarding, surfing or geeky science facts
 - 📫 How to reach me: linkedin.com/in/johanbinst/
 
